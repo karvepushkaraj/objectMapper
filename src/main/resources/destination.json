@@ -1,0 +1,21 @@
+{
+  "empId": "employeeId",
+  "empName": "firstName+' '+lastName",
+  "age": "age+10",
+  "address": "address",
+  "city": "address.city",
+  "hobbies": {},
+  "qualifications": [],
+  "nickName": "",
+  "department": "''",
+  "miscellaneousObject": {
+    "val1": "13+10",
+    "val2": "contactNumbers[0]",
+    "val3": null,
+    "val4": "'Andrew'",
+    "val5": 324.56,
+    "val6": "'John '+lastName"
+  },
+  "miscellaneousArray": ["\"Clara\"","'age'",23,{"val": [4,5,"age"]}],
+  "referenceEmp": "#this"
+}
